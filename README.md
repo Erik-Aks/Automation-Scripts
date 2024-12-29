@@ -8,5 +8,6 @@ To repozytorium zawiera przydatne skrypty do:
 
 ## Struktura  
 - Automation/ - Skrypty do automatyzacji (np. wdrażania aplikacji).  
-- Monitoring/ - Skrypty do monitorowania zasobów.  
+- Monitoring/ - Skrypty do monitorowania zasobów.
+- Optimization/ - Skrypty do optimizacji.  
 - Documentation/ - Instrukcje i dokumentacja.
